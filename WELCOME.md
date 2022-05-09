@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarcinSwiecki
+- 👀 I’m interested in: IT, Sports
+- 🌱 I’m currently learning: Frontend development
+- 📫 How to reach me: swiecki.marcin@protonmail.com
